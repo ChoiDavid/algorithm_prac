@@ -1,4 +1,4 @@
-package shortest_path.acyclic;
+package shortest_path_acyclic;
 
 import static myutil.BasicOperation.min;
 

@@ -1,4 +1,4 @@
-package shortest_path.cyclic;
+package shortest_path_cyclic;
 
 public class Edge {
 	public int weight;

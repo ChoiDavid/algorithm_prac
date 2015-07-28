@@ -1,4 +1,4 @@
-package shortest_path.cyclic;
+package shortest_path_cyclic;
 
 import static org.junit.Assert.*;
 

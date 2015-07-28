@@ -1,4 +1,4 @@
-package shortest_path.cyclic;
+package shortest_path_cyclic;
 
 import java.util.ArrayList;
 import java.util.List;
